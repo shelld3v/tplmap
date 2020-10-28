@@ -4,7 +4,7 @@ from plugins.languages import bash
 from utils import rand
 import string
 
-class Twig(php.Php):
+class Twig(php.PHP):
     
     def init(self):
 
