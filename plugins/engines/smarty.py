@@ -5,7 +5,7 @@ from utils.strings import quote
 import base64
 import re
 
-class Smarty(php.Php):
+class Smarty(php.PHP):
     
     def init(self):
 
