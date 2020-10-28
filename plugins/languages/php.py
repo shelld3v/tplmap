@@ -8,7 +8,7 @@ import base64
 import re
 
 
-class Php(Plugin):
+class PHP(Plugin):
 
 
     def language_init(self):
